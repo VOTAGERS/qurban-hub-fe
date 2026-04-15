@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "Aqua Mint",
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "color": "#13fbdc",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#dafff1",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#81fde1",
+          "name": "Tertiary",
+          "slug": "tertiary"
+        },
+        {
+          "color": "#effffc",
+          "name": "Quaternary",
+          "slug": "quaternary"
+        },
+        {
+          "color": "#2E2E2E",
+          "name": "Icon Bg",
+          "slug": "icon-bg"
+        },
+        {
+          "color": "#ffffff",
+          "name": "Base",
+          "slug": "base"
+        },
+        {
+          "color": "#000000",
+          "name": "Contrast",
+          "slug": "contrast"
+        },
+        {
+          "color": "#000000",
+          "name": "Link Color",
+          "slug": "link-color"
+        }
+      ]
+    }
+  }
+}
